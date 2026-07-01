@@ -37,6 +37,7 @@ The website was designed specifically for a sensitive healthcare product — a s
 
 ## 👨‍💻 My Role
 **Shopify Developer**
+
 Responsibilities:
 - Shopify theme customization
 - Custom Liquid section development
