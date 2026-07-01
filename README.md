@@ -73,7 +73,7 @@ The website provided customers with a clear understanding of the product's featu
 The client was highly satisfied with the final result and provided a **5-star rating** for the quality of work and overall implementation.
 
 ## 🔗 Live Store
-[Visit Live Store]([https://your-store-link.com](https://nuveo-pharma.myshopify.com/))
+[Visit Live Store](https://nuveo-pharma.myshopify.com/)
 
 password: edeoly
 
