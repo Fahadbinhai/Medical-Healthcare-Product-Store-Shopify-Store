@@ -24,3 +24,36 @@ The website was designed specifically for a sensitive healthcare product — a s
 - Product benefits were not presented in a structured way
 - Needed a design focused on customer education and conversion
 - Required a German-language storefront for the target market
+
+## 💡 Solution
+- Developed a custom Shopify single-product store using the MinimoG theme
+- Customized the theme structure according to the healthcare product niche
+- Created multiple custom Shopify Liquid sections for better product storytelling
+- Designed custom sections to present product features, benefits, and visuals professionally
+- Improved product page layout for better customer understanding and conversion
+- Created professional product images and integrated them throughout the website
+- Developed a fully responsive design optimized for mobile, tablet, and desktop
+- Built the complete storefront in German language
+
+## 👨‍💻 My Role
+**Shopify Developer**
+Responsibilities:
+- Shopify theme customization
+- Custom Liquid section development
+- Single product store development
+- Product page design and optimization
+- UI/UX improvements
+- Product image creation and implementation
+- German language storefront setup
+- Responsive design optimization
+
+
+
+
+
+
+
+
+
+
+
