@@ -48,6 +48,36 @@ Responsibilities:
 - German language storefront setup
 - Responsive design optimization
 
+## 🛠️ Tech Stack
+- Shopify
+- Shopify Liquid
+- MinimoG Theme
+- HTML5
+- CSS3
+- JavaScript
+
+## ✨ Key Features
+- 🩹 Single-product healthcare eCommerce store
+- 🎯 Conversion-focused product page
+- 🧩 Custom Shopify Liquid sections
+- 🖼️ Professional product image presentation
+- 🌍 German language storefront
+- 📱 Fully responsive design
+- 🛒 Optimized shopping experience
+
+## 🚀 Outcome
+The final result was a professional and conversion-focused Shopify healthcare store that successfully transformed the client's product into a complete online selling platform.
+
+The website provided customers with a clear understanding of the product's features and benefits while creating a trustworthy shopping experience.
+
+The client was highly satisfied with the final result and provided a **5-star rating** for the quality of work and overall implementation.
+
+
+
+
+
+
+
 
 
 
