@@ -74,6 +74,7 @@ The client was highly satisfied with the final result and provided a **5-star ra
 
 ## 🔗 Live Store
 [Visit Live Store]([https://your-store-link.com](https://nuveo-pharma.myshopify.com/))
+
 password: edeoly
 
 ## 📸 Screenshots
