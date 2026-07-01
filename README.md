@@ -75,7 +75,7 @@ The client was highly satisfied with the final result and provided a **5-star ra
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage]([./screenshots/homepage.png](https://github.com/Fahadbinhai/Medical-Healthcare-Product-Store-Shopify-Store/blob/main/nuveo%20theme.png?raw=true))
 
 
 
